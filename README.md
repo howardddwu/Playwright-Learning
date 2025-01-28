@@ -49,8 +49,8 @@ orangehrm-playwright-project/
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/orangehrm-playwright-project.git](https://github.com/howardddwu/Playwright-Learning.git)
-   cd orangehrm-playwright-project
+   git clone https://github.com/howardddwu/Playwright-Learning.git
+   cd Playwright-Learning
    ```
 
 2. Install dependencies:
