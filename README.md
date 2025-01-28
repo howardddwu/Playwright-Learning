@@ -49,7 +49,7 @@ orangehrm-playwright-project/
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/orangehrm-playwright-project.git
+   git clone [https://github.com/yourusername/orangehrm-playwright-project.git](https://github.com/howardddwu/Playwright-Learning.git)
    cd orangehrm-playwright-project
    ```
 
